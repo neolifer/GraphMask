@@ -1,8 +1,8 @@
 import argparse
 
-from code.utils.configuration_loader import ConfigurationLoader
-from code.utils.runners.experiment_runner import ExperimentRunner
-from code.utils.experiment_utils import ExperimentUtils
+from codes.utils.configuration_loader import ConfigurationLoader
+from codes.utils.runners.experiment_runner import ExperimentRunner
+from codes.utils.experiment_utils import ExperimentUtils
 
 
 class ModelTrainer:

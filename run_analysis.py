@@ -1,7 +1,7 @@
 import argparse
-from code.utils.configuration_loader import ConfigurationLoader
-from code.utils.experiment_utils import ExperimentUtils
-from code.utils.runners.analysis_runner import AnalysisRunner
+from codes.utils.configuration_loader import ConfigurationLoader
+from codes.utils.experiment_utils import ExperimentUtils
+from codes.utils.runners.analysis_runner import AnalysisRunner
 
 
 class ModelAnalyser:
